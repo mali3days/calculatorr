@@ -183,7 +183,7 @@ function getSqr() {
         if(catchError(storage, output)) {
             output.value = storage =  "0";
         } else {
-            storage = eval(parseFloat(storage)) * eval(parseFloat(storage)) ;
+            storage = eval(storage) * eval(storage);
             outputValue();
             buf = "";
         }
