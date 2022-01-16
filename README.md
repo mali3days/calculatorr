@@ -36,5 +36,5 @@ npm run build
 ### Examples
 
 ![cal](./images/1of3.png)
-![find the number](./images/1of3.png)
-![graph x/y](./images/1of3.png)
+![find the number](./images/2of3.png)
+![graph x/y](./images/3of3.png)
